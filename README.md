@@ -1,0 +1,2 @@
+# MAG_B660M_MORTAR_WIFI_D4-12600KF-RX580-Hackintosh-OpenCore-EFI
+微星 MAG B660M MORTAR WIFI DDR4 / i5-123600KF / RX580 / macOS 13 Ventura / 黑苹果 Hackintosh / OpenCore EFI

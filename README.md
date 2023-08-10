@@ -6,8 +6,8 @@
 
 >此EFI已尽量保持纯净，删减了官方模版中大量无用的样例，没有添加任何怪异的补丁，只添加必要的配置。OC最近几个版本的配置项变动非常频繁，有许多配置项的增删，不建议直接把旧的config.pdist复制过来用。
 
-- OpenCore RELEASE 0.8.8
-- 系统： macOS 13.2 Ventura
+- OpenCore RELEASE 0.9.4
+- 系统： macOS 13.4.1 Ventura
 
 ## 硬件配置
 
